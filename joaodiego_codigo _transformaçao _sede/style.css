@@ -1,0 +1,21 @@
+@charset "utf8";
+
+/* aqui posso por um comentario*/
+
+/*
+vamos para o lancher ?
+*/
+
+ /* vamos criar um rest da pagina, onde o css deve limpar as configuraçoes*/
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+ /* id é pro dia a dia, e class pra ocasiões especias*/
+body{
+    background-color: rgba(255, 255, 255, 0.945);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: auto;
+}
